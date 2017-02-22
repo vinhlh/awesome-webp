@@ -12,6 +12,7 @@ A collection of awesome things regarding webp
 3. [A Picture is Worth a Thousand Words](http://www.ebaytechblog.com/2013/02/22/a-picture-is-worth-a-thousand-words/)
 4. [Yelp Android App Went On A Diet](https://engineeringblog.yelp.com/2016/05/yelp-android-app-went-on-a-diet.html)
 5. [webp Compression Techniques](https://developers.google.com/speed/webp/docs/compression)
+6. [A Very WebP New Year from Cloudflare](https://blog.cloudflare.com/a-very-webp-new-year-from-cloudflare/)
 
 ## Tools
 1. [Encoding/ Decoding tools](https://developers.google.com/speed/webp/download)
