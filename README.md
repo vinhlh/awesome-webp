@@ -25,3 +25,5 @@ A collection of awesome things regarding webp
 
 # Alternatives
 - [FLIF](http://flif.info/)
+- [BPG](http://bellard.org/bpg/)
+- JPEG XR
