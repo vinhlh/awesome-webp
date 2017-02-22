@@ -10,6 +10,7 @@ A collection of awesome things regarding webp
 1. [webp - enabling faster, smaller and more beautiful web](https://docs.google.com/presentation/d/1NidHQ-HAWpgQiYJ44gOfgcp_FQ2u59WE4eHuSvwddXY/present?slide=id.p19) - A thoroughly slide from Google guys (Ilya Grigorik, Stephen Konig).
 2. [EverythingMe - Testing WebP compression for app icons](https://github.com/EverythingMe/webp-test)
 3. [A Picture is Worth a Thousand Words](http://www.ebaytechblog.com/2013/02/22/a-picture-is-worth-a-thousand-words/)
+4. [Yelp Android App Went On A Diet](https://engineeringblog.yelp.com/2016/05/yelp-android-app-went-on-a-diet.html)
 
 ## Tools
 1. [Encoding/ Decoding tools](https://developers.google.com/speed/webp/download)
