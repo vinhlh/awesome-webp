@@ -15,6 +15,7 @@ A collection of awesome things regarding webp
 ## Tools
 1. [Encoding/ Decoding tools](https://developers.google.com/speed/webp/download)
 2. [pyssim](https://github.com/jterrace/pyssim) - for measuring SSIM.
+3. [gulp-webp](https://github.com/sindresorhus/gulp-webp)
 
 ## webp on production 
 1. [Google Plus](https://plus.google.com), [Google Play Store](https://play.google.com/store), [Youtube](https://www.youtube.com/), [Chrome Store](https://chrome.google.com/webstore/category/extensions), ...
