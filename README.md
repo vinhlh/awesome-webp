@@ -24,7 +24,7 @@ A collection of awesome things regarding webp
 1. [Google Plus](https://plus.google.com), [Google Play Store](https://play.google.com/store), [Youtube](https://www.youtube.com/), [Chrome Store](https://chrome.google.com/webstore/category/extensions), ...
 2. [Ebay](https://ebay.com)
 
-# Alternatives
+## Alternatives
 - [FLIF](http://flif.info/)
 - [BPG](http://bellard.org/bpg/)
 - JPEG XR
