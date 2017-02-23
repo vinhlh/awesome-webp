@@ -13,7 +13,7 @@ A collection of awesome things regarding webp
 4. [Yelp Android App Went On A Diet](https://engineeringblog.yelp.com/2016/05/yelp-android-app-went-on-a-diet.html)
 5. [webp Compression Techniques](https://developers.google.com/speed/webp/docs/compression)
 6. [A Very WebP New Year from Cloudflare](https://blog.cloudflare.com/a-very-webp-new-year-from-cloudflare/)
-7. [Cloudinary - A one-color image is worth two thousand words](http://cloudinary.com/blog/a_one_color_image_is_worth_two_thousand_words)
+7. [Deploying WebP via Accept Content Negotiation](https://www.igvita.com/2013/05/01/deploying-webp-via-accept-content-negotiation/)
 
 ## Tools
 1. [Encoding/ Decoding tools](https://developers.google.com/speed/webp/download)
