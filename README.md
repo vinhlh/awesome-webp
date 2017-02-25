@@ -14,6 +14,7 @@ A collection of awesome things regarding WebP
 5. [WebP Compression Techniques](https://developers.google.com/speed/webp/docs/compression)
 6. [A Very WebP New Year from Cloudflare](https://blog.cloudflare.com/a-very-webp-new-year-from-cloudflare/)
 7. [Deploying WebP via Accept Content Negotiation](https://www.igvita.com/2013/05/01/deploying-webp-via-accept-content-negotiation/)
+8. [Optimizing images with WebP](https://medium.com/@vinhlh/how-i-apply-webp-for-optimizing-images-9b11068db349#.kykjjpg8o)
 
 ## Tools
 1. [Encoding/ Decoding tools](https://developers.google.com/speed/webp/download)
